@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansisewaa&count_private=true&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansisewaa&layout=compact)](https://github.com/mansisewaa/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
