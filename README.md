@@ -20,9 +20,9 @@
 
 ## 📊 GitHub Stats
 
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansisewaa&count_private=true&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansisewaa&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansisewaa&layout=compact&theme=dracula)](https://github.com/mansisewaa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansisewaa&layout=compact&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mansisewaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
